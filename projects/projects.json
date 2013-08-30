@@ -1612,3 +1612,16 @@
     }
   ]
 }
+{
+  "name": "arbor_angular",  // will be displayed under the screenshot
+  "thumb": "my-app/thumb.png", // path to the image (omit the projects/ prefix)
+  "desc": "Arborjs+AngularJs Demo Dashboard", // One or two sentences
+  "url": "http://kookoo.in/customers/callstrack/#/graph", // url to your app
+  "info": "http://blog.kookoo.in/2013/08/integrating-arborjs-with-angular-to.html", // url to app announcement or background
+  "src": "https://github.com/kookoolib/arbor_angular", // (optional) Url to your source repository
+  "submitter": "kookoolib", // your github username
+  "submissionDate": "2013-08-30", // current date in ISO format
+  "tags": [
+    "Arbor", "KooKoo", "CallStack" // choose your app seriousness level (for plunks or fiddles use "Toy")
+  ]
+}
